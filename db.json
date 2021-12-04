@@ -2,7 +2,7 @@
   "superHeroes": [
     {
       "id": 1,
-      "name": "Batman",
+      "name": "Batman Dark Knight",
       "alterEgo": "Bruce Wayne"
     },
     {
@@ -17,8 +17,26 @@
     },
     {
       "id": 4,
-      "name": "Spiderman",
+      "name": "Spiderman1",
       "alterEgo": "Peter Parker"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    },
+    {
+      "id": 4,
+      "name": "Mary jane"
     }
   ]
 }
