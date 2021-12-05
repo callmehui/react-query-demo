@@ -6,7 +6,7 @@ const fetchSuperHeros = () => {
 };
 
 export const useSuperHeroerData = (onSuccess, onError) => {
-  return useQuery("super-heros", fetchSuperHeros, {
+  return useQuery("super-heroes", fetchSuperHeros, {
     onSuccess,
     onError,
     // select: (data) => {
