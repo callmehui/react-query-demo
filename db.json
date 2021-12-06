@@ -19,6 +19,26 @@
       "id": 4,
       "name": "Spiderman1",
       "alterEgo": "Peter Parker"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "Barry Allen",
+      "id": 5
+    },
+    {
+      "name": "Cheng Long",
+      "alterEgo": "Jakiie Chen",
+      "id": 6
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "id": 7
+    },
+    {
+      "name": "Green Arrow",
+      "alterEgo": "Oliver Queen",
+      "id": 8
     }
   ],
   "friends": [
@@ -48,7 +68,11 @@
   "channels": [
     {
       "id": "codevolution",
-      "courses": ["vue", "react", "angular"]
+      "courses": [
+        "vue",
+        "react",
+        "angular"
+      ]
     }
   ],
   "colors": [
